@@ -592,9 +592,10 @@
 		}
 
 	ul {
-		list-style: disc;
+		list-style: "→";
 		margin: 0 0 1.5em 0;
 		padding-left: 1em;
+		display:inline-table;
 	}
 
 		ul li {
