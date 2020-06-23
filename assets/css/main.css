@@ -274,7 +274,7 @@
 
 	h5 {
 		font-size: 1em;
-		text-decoration: underline;
+		/*text-decoration: underline;*/
 	}
 
 	h6 {
@@ -606,7 +606,7 @@
 		}
 
 	ul {
-		list-style: circle/*"→"*/;
+		list-style: "→";/*circle/*"→"*/
 		margin: 0 0 1.5em 0;
 		padding-left: 1em;
 		display:inline-table;
