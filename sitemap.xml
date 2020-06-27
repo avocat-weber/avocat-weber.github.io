@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+ <loc>http://www.siggi.lu</loc>
+ <lastmod>2020-06-27</lastmod>
+ <changefreq>weekly</changefreq>
+ <priority>0.9</priority>
+</url>
+<url>
+ <loc>http://www.siggi.lu/fr/</loc>
+ <lastmod>2020-06-27</lastmod>
+ <changefreq>weekly</changefreq>
+ <priority>0.9</priority>
+</url>
+<url>
+ <loc>http://www.siggi.lu/de/</loc>
+ <lastmod>2020-06-27</lastmod>
+ <changefreq>weekly</changefreq>
+ <priority>0.8</priority>
+</url>
+<url>
+ <loc>http://www.siggi.lu/en/</loc>
+ <lastmod>2020-06-27</lastmod>
+ <priority>0.9</priority>
+</url>
+<url>
+ <loc>http://www.siggi.lu/pt/</loc>
+ <lastmod>2020-06-27</lastmod>
+ <priority>0.5</priority>
+</url>
+<url>
+ <loc>http://www.siggi.lu/lu/</loc>
+ <lastmod>2020-06-27</lastmod>
+ <priority>0.5</priority>
+</url>
+</urlset>
