@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+ <loc>http://www.siggi.lu</loc>
+ <lastmod>2020-06-27</lastmod>
+ <changefreq>weekly</changefreq>
+ <priority>1</priority>
+ <xhtml:link rel="alternate" hreflang="fr" href="http://siggi.lu/fr/">
+ <xhtml:link rel="alternate" hreflang="de" href="http://siggi.lu/de/">
+ <xhtml:link rel="alternate" hreflang="lu" href="http://siggi.lu/lu/">
+ <xhtml:link rel="alternate" hreflang="pt" href="http://siggi.lu/pt/">
+ <xhtml:link rel="alternate" hreflang="en" href="http://siggi.lu/en/">
+</url>
+</urlset>
